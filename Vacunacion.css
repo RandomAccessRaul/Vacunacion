@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    height: 20px;
+}
+
+section{
+    height: 1800px;
+}
+
+.fondoEnfermera{
+    background-image: url(./Enfermera2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.negritas{
+    font-weight: 700;
+    font-size: xx-large;
+    text-align: left justify;
+
+}
